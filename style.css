@@ -1,0 +1,15 @@
+.bg-img1 {
+    background-color: #92a8d1;
+    background-size: cover;
+background-image: url("bgdesert.jpg");
+}
+.bg-img2 {
+    background-color: rgb(201, 76, 76);
+    background-size: cover;
+background-image: url("img_tree.gif");
+}
+.bg-img3 {
+    background-color: rgba(201, 76, 76, 0.3);
+    background-size: cover;
+background-image: url("paper.gif");
+}
